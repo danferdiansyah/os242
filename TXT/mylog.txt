@@ -1,3 +1,4 @@
 # Daniel Ferdiansyah's Log
 
 ZCZC W00 20 L09 Weekly Assignment 
+ZCZC W00 20 L03 Github related: commit, push, and renaming branch
