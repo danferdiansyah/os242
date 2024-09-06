@@ -2,10 +2,8 @@
 permalink: LINKS/
 ---
 
-OS
-Main source -- os.vlsm.org
-Demos       -- demos.vlsm.org
+- [OS Site](https://os.vlsm.org) -- Main site for Operating System Course
 
-GitHub
-Repository  -- github.com/danferdiansyah/os242.git
-GitHub Page -- danferdiansyah.github.io/os242
+- [Weekly Assignment](https://demos.vlsm.org) -- Weekly assignment and demos resources
+
+- [Debian's Shell Commands](https://wiki.debian.org/ShellCommands) -- Detailed shell commands that would very helpful for this course
