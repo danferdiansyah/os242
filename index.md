@@ -1,7 +1,6 @@
 ---
 ---
 
-# OS242
 Daniel Ferdiansyah
 
 [LINKS](LINKS/) --- [LOG](TXT/mylog.txt)
