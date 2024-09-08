@@ -1,7 +1,7 @@
 ---
 ---
 
-https://i.postimg.cc/CMb19FFr/Home-Page-Cover.png
+Daniel Ferdiansyah - OS GHP
 
 [LINKS](LINKS/) --- [LOG](TXT/mylog.txt)
 
