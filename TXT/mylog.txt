@@ -10,3 +10,4 @@ ZCZC W01 60 L09 Weekly Assignment
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 30 L03 GitHub related: Fix GHP's deployment problem
 ZCZC W01 60 L09 Weekly Assingment
+ZCZC W01 20 L03 GitHub related: Updating index.md, etc
