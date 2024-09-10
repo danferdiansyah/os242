@@ -4,6 +4,7 @@ ZCZC W00 20 L09 Weekly Assignment
 ZCZC W00 20 L03 GitHub related: commit, push, and renaming branch
 ZCZC W00 15 L87 Breakfast
 ZCZC W00 15 L01 SCELE/Discord related
+
 ZCZC W01 90 L09 Weekly Assignment
 ZCZC W01 40 L03 GitHub related: learn to use 4 Mantras by terminal
 ZCZC W01 60 L09 Weekly Assignment
@@ -11,3 +12,8 @@ ZCZC W01 15 L03 GitHub related
 ZCZC W01 30 L03 GitHub related: Fix GHP's deployment problem
 ZCZC W01 60 L09 Weekly Assingment
 ZCZC W01 20 L03 GitHub related: Updating index.md, etc
+
+ZCZC W02 60 L09 Weekly Assignment
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 40 L82 Reading Operating System Concepts, 10th Edition, 2018, chapter 16, 17
+ZCZC W02 10 L07 Demo related
