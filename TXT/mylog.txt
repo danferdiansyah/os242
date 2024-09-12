@@ -18,3 +18,5 @@ ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W02 40 L82 Reading Operating System Concepts, 10th Edition, 2018, chapter 16, 17
 ZCZC W02 10 L07 Demo related
 ZCZC W02 30 L32 YouTube: watching Cyber security full course by My CS
+ZCZC W02 20 L32 YouTube: continued related course
+ZCZC W02 15 L03 GitHub related
