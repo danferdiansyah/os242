@@ -22,4 +22,11 @@ ZCZC W02 20 L32 YouTube: continued related course
 ZCZC W02 15 L03 GitHub related
 
 ZCZC W03 10 L03 GitHUb related
+ZCZC W03 15 L26 GnuPG, key-gen, encrypt/deccrypt
 ZCZC W03 20 L09 Weekly Assignment
+ZCZC W03 90 L09 Weekly Assignment
+ZCZC W03 05 L07 Updating Demos Week 03
+ZCZC W03 30 L82 Reading Operating System Concepets, 10th Edition, 2018, chapter 13, 14, and 15
+ZCZC W03 10 L41 Updating TXT/mylog.txt
+ZCZC W03 10 L43 Updating TXT/myrank.txt
+ZCZC W03 05 L44 Ran TXT/myscript.sh
