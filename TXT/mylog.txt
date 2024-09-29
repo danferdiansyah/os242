@@ -30,3 +30,12 @@ ZCZC W03 30 L82 Reading Operating System Concepets, 10th Edition, 2018, chapter 
 ZCZC W03 10 L41 Updating TXT/mylog.txt
 ZCZC W03 10 L43 Updating TXT/myrank.txt
 ZCZC W03 05 L44 Ran TXT/myscript.sh
+
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 20 L09 Weekly Assignment
+ZCZC W04 05 L07 Updating Demos Week 04
+ZCZC W04 10 L41 Updating TXT/mylog.txt
+ZCZC W04 10 L43 Updating TXT/myrank.txt
+ZCZC W04 30 L82 Reading Operating System Concepts, 10th Edition, 2018, chapter 9
+ZCZC W04 10 L09 Weekly Assignment
+ZCZC W04 05 L44 Ran TXT/myscript.sh

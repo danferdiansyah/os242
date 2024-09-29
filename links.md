@@ -13,3 +13,10 @@ permalink: LINKS/
 - [GitHub Page Reference](https://doit.vlsm.org/040.html) -- Previous term OS student's GitHub Page links
 
 - [Silberschatz et. al.: Operating System Concepts, 10th Edition, 2018, chapter 13, 14, 15](https://codex.cs.yale.edu/avi/os-book/OS10/) -- OS Textbook
+
+- [Tar or Zip?](https://stackoverflow.com/questions/10540935/what-is-the-difference-between-tar-and-zip) -- Difference between tar and zip command in linux
+
+- [gpg Cheatsheet](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) -- Quick access to gpg important notes
+
+- [50 Useful Linux commands](https://www.digitalocean.com/community/tutorials/linux-commands) -- Useful linux commands guide to be executed inside the linux terminal
+
