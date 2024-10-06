@@ -20,3 +20,8 @@ permalink: LINKS/
 
 - [50 Useful Linux commands](https://www.digitalocean.com/community/tutorials/linux-commands) -- Useful linux commands guide to be executed inside the linux terminal
 
+- [RegexOne](https://regexone.com/) -- Provides step-by-step lessons for understanding Regex
+
+- [Intro to GPG Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo) -- Introduction to file encryption with GPG
+
+- [Main Memory Management](https://www.youtube.com/watch?v=Ag4p5yCqte8&ab_channel=SolvingSkills) -- Outlines how the operating system handles main memory, emphasizing the difference between logical and physical addresses
