@@ -25,3 +25,7 @@ permalink: LINKS/
 - [Intro to GPG Encryption](https://www.youtube.com/watch?v=DMGIlj7u7Eo) -- Introduction to file encryption with GPG
 
 - [Main Memory Management](https://www.youtube.com/watch?v=Ag4p5yCqte8&ab_channel=SolvingSkills) -- Outlines how the operating system handles main memory, emphasizing the difference between logical and physical addresses
+
+- [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) -- Good explanation to memory management in Operating System
+
+- [Paging](https://www.youtube.com/watch?v=LKYKp_ZzlvM) -- Videos that explains Paging concept in Operating System

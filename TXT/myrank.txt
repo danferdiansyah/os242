@@ -15,3 +15,7 @@ ZCZC W04 asShidqi
 ZCZC W05 alicfamahdi
 ZCZC W05 Dardrich
 ZCZC W05 RaAhYaMa
+
+ZCZC W06 MaulRai
+ZCZC W06 syauqiyasman
+ZCZC W06 Vincent-Davis
