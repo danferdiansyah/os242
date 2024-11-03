@@ -29,3 +29,7 @@ permalink: LINKS/
 - [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) -- Good explanation to memory management in Operating System
 
 - [Paging](https://www.youtube.com/watch?v=LKYKp_ZzlvM) -- Videos that explains Paging concept in Operating System
+
+- [`chown` command in Linux](https://ioflood.com/blog/chown-linux-command/) -- File ownership using `chown` command in Linux
+
+- [Classic SysAdmin: The Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) -- Structure of the Linux file system.
