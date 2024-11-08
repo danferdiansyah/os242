@@ -68,10 +68,19 @@ ZCZC W07 10 L07 Updating Demos Week 07
 ZCZC W07 15 L17 Assignment $07
 ZCZC W07 10 L43 Updating TXT/myrank.txt
 ZCZC W07 30 L17 Assignment #07
-ZCZC W07 30 L17 Assignment $07
+ZCZC W07 30 L17 Assignment #07
 ZCZC W07 15 L41 Updating TXT/mylog.txt
-ZCZC W07 30 L17 Assignment $07
+ZCZC W07 30 L17 Assignment #07
 ZCZC W07 20 L73 Playing TEKKEN8
 ZCZC W07 05 L44 Ran TXT/myscript.sh
 ZCZC W07 05 L03 Git commit and push
 ZCZC W07 20 L73 Playing PvZ: Fusion
+
+ZCZC W08 15 L62 Backup Virtual Debian Guest
+ZCZC W08 05 L07 Updating Demos Week 08
+ZCZC W08 30 L18 Assignment #08
+ZCZC W08 90 L18 Assignment #08
+ZCZC W08 90 L18 Assignment #08
+ZCZC W08 10 L43 Updating TXT/myrank.txt
+ZCZC W08 15 L41 Updating TXT/mylog.txt
+ZCZC W08 05 L44 Ran TXT/myscript.sh

@@ -33,3 +33,7 @@ permalink: LINKS/
 - [`chown` command in Linux](https://ioflood.com/blog/chown-linux-command/) -- File ownership using `chown` command in Linux
 
 - [Classic SysAdmin: The Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) -- Structure of the Linux file system.
+
+-- [Docusaurus](https://docusaurus.io/) -- Docusaurus main documentation 
+
+-- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/development/) -- Main guide on how to build Linux from Scratch
