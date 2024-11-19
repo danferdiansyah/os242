@@ -34,6 +34,14 @@ permalink: LINKS/
 
 - [Classic SysAdmin: The Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained) -- Structure of the Linux file system.
 
--- [Docusaurus](https://docusaurus.io/) -- Docusaurus main documentation 
+- [Docusaurus](https://docusaurus.io/) -- Docusaurus main documentation 
 
--- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/development/) -- Main guide on how to build Linux from Scratch
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/development/) -- Main guide on how to build Linux from Scratch
+
+- [Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html) --
+   Overview of synchronization techniques in Operating System.
+
+- [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization) -- Explains synchronization mechanisms and solutions.
+
+- [Peterson's Algorithm](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) --
+   Explain Peterson's Algorithm.
