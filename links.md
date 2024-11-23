@@ -45,3 +45,7 @@ permalink: LINKS/
 
 - [Peterson's Algorithm](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) --
    Explain Peterson's Algorithm.
+
+- [CPU Scheduling in Operating System](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) -- Provides an explanation of CPU Scheduling processes in operating systems, includes images to improve understanding. Very well organized.
+
+- [Kernotex LFS 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) -- Very clear demonstration on doing LFS 12.2.

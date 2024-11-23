@@ -93,3 +93,12 @@ ZCZC W09 10 L43 Updating TXT/myrank.txt
 ZCZC W09 15 L41 Updating TXT/mylog.txt
 ZCZC W09 05 L44 Ran TXT/myscript.sh
 ZCZC W09 30 L62 Backing up my work
+
+ZCZC W10 05 L07 Updating Demos Week 10
+ZCZC W10 90 L19 Assignment #10
+ZCZC W10 120 L19 Assignment #10
+ZCZC W10 240 L19 Assignment #10
+ZCZC W10 30 L62 Backup OVA
+ZCZC W10 20 L19 Assignment #10
+ZCZC W10 05 L43 Updating TXT/myrank.txt
+ZCZC W10 10 L41 Updating TXT/mylog.txt
